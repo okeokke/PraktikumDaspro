@@ -58,3 +58,10 @@ Jika tidak/false, dilanjutkan dengan pengecekan **jika** bimbinganP1 **DAN** bim
 Jika tidak/false, dilanjutkan dengan pengecekan kondisi **jika** bimbinganP1 apakah kurang dari nilai 8, jika kondisi true, akan mencetak "Gagal, syarat bimbinganP1 tidak terpenuhi".
 Jika tidak/false, tidak ada variabel yang dicek lagi, dan dipastikan bahwa bimbinganP2 tidak lengkap dan akan mencetak "Gagal, syarat bimbinganP2 tidak terpenuhi".
 Setelah eksekusi perintah dalam kondisi true statement if komndisi kompen, jika kondisi false, maka akan mencetak "Gagal, mahasiswa memiliki kompen"
+
+# TUGAS 1
+[ifCetakKRS08.java](https://github.com/okeokke/PraktikumDaspro/blob/main/jobsheet5/ifCetakKRS08.java)
+
+# TUGAS 2
+
+# TUGAS 3
