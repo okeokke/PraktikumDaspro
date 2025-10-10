@@ -22,7 +22,7 @@ Ini fitur 3
 3 & 4 . [ifCetakKRS08.java](https://github.com/okeokke/PraktikumDaspro/blob/main/jobsheet5/ifCetakKRS08.java)
 
 
-## Percobaan 
+## Percobaan 2
 [switchCetakKRS08.java](https://github.com/okeokke/PraktikumDaspro/blob/main/jobsheet5/switchCetakKRS08.java)
 ### Pertanyaan
 1. Apa fungsi dari sintaks break?
@@ -33,7 +33,6 @@ Ini fitur 3
 ### Jawaban Pertanyaan
 1. break berfungsi untuk mengakhiri pernyataan dari sebuah case. tanpa break, pernyataan untuk case selanjutnya akan tetap tereksekusi sampai ada sintaks break, atau jika tidak akan error.
 2. default kurang lebih berarti kondisi asli jika tidak ada case yang cocok dengan kondisi yang diberikan.
-
 3 & 4. [ifElseCetakKRS08.java](https://github.com/okeokke/PraktikumDaspro/blob/main/jobsheet5/ifElseCetakKRS08.java)
 
 
